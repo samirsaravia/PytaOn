@@ -37,12 +37,15 @@ Ferramentas como o Google Colab permite trabalhar online. Se não, precisa insta
 
 #### Como vai funcionar?
 
-Será explicado o conceito, e um exemplo para melhor compreensão.
+Será explicado o conceito do tópico, e um exemplo para melhor compreensão.
 
 #### O que eu irei aprender?
 
 A 1T será para aprender a parte básica e introdutória de cada tópico, compreender "lógica de programação" e da 2T em diante, o nível será mais aprofundado, reforçando a lógica de programação e aprendendo a resolver problemas reais.
 
+#### Posso usar Chatgpt?
+
+Sim, Inteligencia Artificial é um ferramenta muito poderosa, porém o propósito é desenvolver a lógica de programação e melhorar o raciocínio lógico, para aprender a resolver problemas.
 
 
 ## Ferramentas
