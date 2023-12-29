@@ -1,6 +1,6 @@
 # Do Zero ao Arrojado
 
-Projeto de Python desde o básico.
+🚀 Projeto de Python desde o básico.
 ## Temporadas
 
 - 1T
@@ -41,7 +41,7 @@ Será explicado o conceito do tópico, e um exemplo para melhor compreensão.
 
 #### O Material ficará disponível ?
 
-Sim, no Github e no Google Colab.
+Sim, no Github e no Google Colab
 
 #### O que eu irei aprender?
 
@@ -51,15 +51,19 @@ A 1T será para aprender a parte básica e introdutória de cada tópico, compre
 
 Sim, Inteligencia Artificial é um ferramenta muito poderosa, porém o propósito é desenvolver a lógica de programação, entender os métodos e melhorar o raciocínio lógico, para aprender a resolver problemas, sem precisamente usar IA.
 
+## Materiais Usados
+- 📋 [Python.org](https://wiki.python.org/moin/BeginnersGuide)
+- 📘 Think Python- Allen B. Downey (O'Reilly)
+- 🎞️ [Youtube/FreeCodeCamp](https://www.youtube.com/watch?v=nLRL_NcnK-4) 
 
 ## Ferramentas
 Opcional
 
-- Google Colab
-- Pycharm
-- Python 3.0+
-- Sublime
-- Visual Studio
+- 🇬 Google Colab
+- ⌨️ Pycharm
+- 🐍 Python 3.0+
+- 🇸 Sublime
+- 🇻 Visual Studio
 
 ![Logo](https://ssl.gstatic.com/colaboratory-static/common/b124d179c25e30ffc6a1ff293e85eba8/img/favicon.ico)
 
